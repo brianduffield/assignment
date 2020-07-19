@@ -5,7 +5,7 @@ Application Programing Interfaces (APIs) are integral to modern-day Internet int
 APIs involved in web communications use the HTTP protocol and are known as web services. To the developer community, building or integrating applications with these APIs requires a knowledge of two primary types: SOAP (Simple Object Access Protocol) and REST (Representational State Transfer).
 
 ## SOAP (Simple Object Access Protocol)
-The SOAP protocol was one of the first API formats and was designed as a standardized way to send and receive messages and data between programs. SOAP APIs follow specifications that define the message format and how its processed. In short, SOAP APIs uses XML (extensible markup language) to format the message. The messages are made up of the envelope, header, body, and fault sections: 
+The SOAP protocol was one of the first API formats and was designed as a standardized way to send and receive messages and data between programs. SOAP APIs follow specifications that define the message format and how it is processed. In short, SOAP APIs uses XML (extensible markup language) to format the message. The messages are made up of the envelope, header, body, and fault sections: 
 
 - Envelope: Defines the message as a SOAP API
 - Header: An optional section that further defines the message and its requirements.
