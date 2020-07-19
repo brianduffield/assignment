@@ -1,6 +1,6 @@
 # REST vs SOAP
 
-Application Programing Interfaces (APIs) are integral to modern-day Internet interactions. They facilitate communication and transmission of data between applications without regard to platforms, programming languages, or other technologies.
+Application Programing Interfaces (APIs) are integral to modern-day Internet communications. They facilitate interactions and transmission of data between applications without regard to platforms, programming languages, or other technologies.
 
 APIs involved in web communications use the HTTP protocol and are known as web services. To the developer community, building or integrating applications with these APIs requires a knowledge of two primary types: SOAP (Simple Object Access Protocol) and REST (Representational State Transfer).
 
